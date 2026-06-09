@@ -1,7 +1,1 @@
-```bash
-bunx mtosity
-```
-
-```bash
-npx mtosity
-```
+build stuff
